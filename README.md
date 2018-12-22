@@ -14,6 +14,8 @@ The code deliver the necessary infrastructure to deploy your wordpress, only on 
 
 NB: For those who want to updload their article files, images, videos and so on please install the following module [Amazon Web Services](https://wordpress.org/plugins/amazon-web-services/).
 
+To access to the wbesite configuration put the dns name or ip of ec2 "/" wordpress
+
 License
 ----
 AWS ARCHITECT -  ZINA LACINA
